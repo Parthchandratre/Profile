@@ -131,4 +131,9 @@ body{
   height: 30px;
   background: #bbb;
 }
+.copyright{
+  text-align: center;
+  background-color: white;
+  font-size: medium;
+}
 
